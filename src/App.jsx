@@ -15,7 +15,7 @@ function App() {
 
         <input value={input} onChange={(e) => setInput(e.target.value)} placeholder='Type a task..' type="text" />
 
-        <p>You typed : {input}</p>
+        <p>You typed: {input}</p>
       </div>
 
     </>
