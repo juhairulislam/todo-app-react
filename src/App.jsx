@@ -11,7 +11,7 @@ function App() {
     <>
 
       <div>
-        <h1>My ToDo App</h1>
+        <h1>My Too App</h1>
 
         <input value={input} onChange={(e) => setInput(e.target.value)} placeholder='Type a task..' type="text" />
 
