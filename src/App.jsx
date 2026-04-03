@@ -16,6 +16,7 @@ function App() {
         <h2>This is another eid day 3</h2>
         <h2>This is another eid day 4</h2>
         <h2>This is for day after assignment 6</h2>
+        <h2>This is for day two after assignment 6</h2>
 
         <input value={input} onChange={(e) => setInput(e.target.value)} placeholder='Type a task..' type="text" />
 
